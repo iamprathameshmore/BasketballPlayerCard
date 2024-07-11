@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* background-color: black; */
+}
+
+.body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-image: url('https://www.freepik.com/free-ai-image/basketball-game-concept_74771744.htm#query=basketball%20background&position=13&from_view=keyword&track=ais_user&uuid=a3d22e8d-471d-48b1-9ae1-d07faa94a8a7') */
+}
+/* <a href="
+https://www.freepik.com/free-ai-image/basketball-game-concept_74771744.htm#query=basketball%20background&position=13&from_view=keyword&track=ais_user&uuid=a3d22e8d-471d-48b1-9ae1-d07faa94a8a7
+">Image by freepik</a> */

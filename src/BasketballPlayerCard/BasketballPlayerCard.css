@@ -1,0 +1,49 @@
+.player-card{
+background-color: orange;
+background-blend-mode: multiply;
+
+color: #000;
+align-items: center;
+justify-items: center;
+
+padding: 10px;
+box-shadow: 60px -16px blanchedalmond;
+border-radius: 5px;
+
+}
+
+.player-image{
+    
+    height: 150px;
+    object-fit: fit;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 10px;
+    background-color:white;
+
+}
+.player-name{
+    font-size: 25px;
+  
+    background-color: white;
+    background-size: contain;
+    
+    padding: 10px;
+    
+
+}
+.player-position{
+    background-color: wheat;
+   
+    font-size: 20px;
+    padding: 10px 0px 0px 15px;
+}
+
+.player-stats{
+    background-color: wheat;
+   
+    font-size: 15px;
+    padding: 5px 0px 20px 15px;
+   
+
+}
